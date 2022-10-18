@@ -77,5 +77,15 @@ User       WWW      REST SERVER
 -Body
 ```
 
+### Status code
+
+- 1xx informacionais
+- 2xx Sucesso
+- 3xx Redirecionamento
+- 4xx Erro de client
+- 5xx Erro de server
+
+https://http.cat/
+
 
 
