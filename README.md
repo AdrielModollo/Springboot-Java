@@ -87,5 +87,13 @@ User       WWW      REST SERVER
 
 https://http.cat/
 
+### Métodos de requisição
+
+- GET: recupera os dados 
+- POST: Criação de dados
+- DELETE: Deleção de dados
+- PATCH: Geralmente utilizado para atualizar dados específicos
+- PUT: Geralmente utilizado para atualizado todos os dados (Idempotente)
+
 
 
