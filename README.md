@@ -47,6 +47,16 @@ Aplicação interoperável que é hospedada e pode ser acessada através de um p
   6. Código sob demanda (opcional)
 ```
 
+### Vantagens REST
+
+- Suporta: xml, pdf, imagens, binário, texto, json, etc...
+
+- RESTful é um padrão arquitetura basicamente leve por natureza. Então quando você tiver limitações de banda prefira web services REST.
+
+- Desenvolvimento fácil e rápido;
+
+- Aplicativos mobile tem ganhado cada vez mais espaço e precisam interagir rapidamente com os servidores e o padrão REST é mais rápido no processamento de dados das requests e responses. 
+
 
 
 
