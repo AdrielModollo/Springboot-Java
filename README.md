@@ -95,5 +95,10 @@ https://http.cat/
 - PATCH: Geralmente utilizado para atualizar dados específicos
 - PUT: Geralmente utilizado para atualizado todos os dados (Idempotente)
 
+### HATEOAS
+
+Prove informações que permite navegar entre os endpoints de forma dinâmica. 
+
+
 
 
