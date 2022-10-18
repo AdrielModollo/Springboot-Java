@@ -30,3 +30,23 @@ Aplicação interoperável que é hospedada e pode ser acessada através de um p
   7. Arquivos menores, e consomem menos processamento, obtendo uma melhor performance.
 ```
 
+### REST (Estado representacional de transferência)
+
+- REST é baseado em um conjunto de constraints
+
+```
+  1. Cliente-servidor (Clientes e servidores separados).
+  2. Stateless server (Não deve guardar o estado do cliente)
+  3. Cacheable (Cliente deve informar as propriedades cache)
+  4. Interface uniforme
+    4.1. Identificação de recursos (URI)
+    4.2. Manipulação de recursos a partir de suas representações
+    4.3. Mensagens auto descritivas
+    4.4. Hypermedia as the engine of application state - HATEQAS
+  5. Sistema em camadas(Suporta balanceamento de carga, proxies, firewalls)
+  6. Código sob demanda (opcional)
+```
+
+
+
+
