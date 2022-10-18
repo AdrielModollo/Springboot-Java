@@ -58,5 +58,14 @@ Aplicação interoperável que é hospedada e pode ser acessada através de um p
 - Aplicativos mobile tem ganhado cada vez mais espaço e precisam interagir rapidamente com os servidores e o padrão REST é mais rápido no processamento de dados das requests e responses. 
 
 
+### Request e Response 
+
+```
+      HTTP REQUEST
+      ------------>
+User       WWW      REST SERVER
+      <-----------
+      HTTP RESPONSE
+```
 
 
